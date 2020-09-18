@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HwangToLee/movie_app_2020/static/css/main.7f9af8cc.chunk.css",
+    "main.js": "/HwangToLee/movie_app_2020/static/js/main.09ed78c8.chunk.js",
+    "main.js.map": "/HwangToLee/movie_app_2020/static/js/main.09ed78c8.chunk.js.map",
+    "runtime-main.js": "/HwangToLee/movie_app_2020/static/js/runtime-main.b40698a8.js",
+    "runtime-main.js.map": "/HwangToLee/movie_app_2020/static/js/runtime-main.b40698a8.js.map",
+    "static/js/2.968ebb96.chunk.js": "/HwangToLee/movie_app_2020/static/js/2.968ebb96.chunk.js",
+    "static/js/2.968ebb96.chunk.js.map": "/HwangToLee/movie_app_2020/static/js/2.968ebb96.chunk.js.map",
+    "index.html": "/HwangToLee/movie_app_2020/index.html",
+    "precache-manifest.2151c5db8468c849d8acf7f8502a897e.js": "/HwangToLee/movie_app_2020/precache-manifest.2151c5db8468c849d8acf7f8502a897e.js",
+    "service-worker.js": "/HwangToLee/movie_app_2020/service-worker.js",
+    "static/css/main.7f9af8cc.chunk.css.map": "/HwangToLee/movie_app_2020/static/css/main.7f9af8cc.chunk.css.map",
+    "static/js/2.968ebb96.chunk.js.LICENSE.txt": "/HwangToLee/movie_app_2020/static/js/2.968ebb96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b40698a8.js",
+    "static/js/2.968ebb96.chunk.js",
+    "static/css/main.7f9af8cc.chunk.css",
+    "static/js/main.09ed78c8.chunk.js"
+  ]
+}
